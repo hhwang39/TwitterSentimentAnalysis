@@ -6,5 +6,5 @@ Analyze the sentiment of popular celebrity
 
 ## Front-End (Main Page)
 ![front_end_1](screen_shots/front_page.PNG)
-## Front-End (Search)
+## Front-End (Searched)
 ![front_end_1](screen_shots/front_page_2.PNG)
